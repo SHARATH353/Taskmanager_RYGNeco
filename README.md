@@ -24,8 +24,11 @@ A simple personal task management app built using React, to help manage daily ta
 ## 🔗 Live Demo
 [https://taskmanager-ryg-neco-dz7h.vercel.app/]
 
+
 ## 🖼 Screenshots
-![Screenshot 1](https://drive.google.com/file/d/1EfZiR1sf1ySAI2tm4p3InYqx1lb0hdqI/view?usp=sharing)
-![Screenshot 2](https://drive.google.com/file/d/1EfZiR1sf1ySAI2tm4p3InYqx1lb0hdqI/view?usp=sharing)
-![Screenshot 3](https://drive.google.com/file/d/1kxeWBeDQJm96TD9xCKf5OkFTLetC8BYz/view?usp=sharing)
+
+![Screenshot 1](https://drive.google.com/uc?export=view&id=1EfZiR1sf1ySAI2tm4p3InYqx1lb0hdqI)
+![Screenshot 2](https://drive.google.com/uc?export=view&id=1EfZiR1sf1ySAI2tm4p3InYqx1lb0hdqI)
+![Screenshot 3](https://drive.google.com/uc?export=view&id=1kxeWBeDQJm96TD9xCKf5OkFTLetC8BYz)
+
 
