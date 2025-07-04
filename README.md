@@ -15,14 +15,14 @@ A simple personal task management app built using React, to help manage daily ta
 1. Clone the repository
 2. Run `npm install`
 3. Run `npm start`
-4. Open [http://localhost:3000](http://localhost:3000)
+4. Open [Taskmanager_Website](https://taskmanager-ryg-neco-dz7h.vercel.app/)
 
 ## 🧰 Technologies Used
 - React.js
 - CSS
 
 ## 🔗 Live Demo
-[Add your deployment link here]
+[https://taskmanager-ryg-neco-dz7h.vercel.app/]
 
 ## 🖼 Screenshots
-![Screenshot](your-screenshot-link-here)
+![Screenshot]([your-screenshot-link-here](https://drive.google.com/file/d/1EfZiR1sf1ySAI2tm4p3InYqx1lb0hdqI/view?usp=sharing))
